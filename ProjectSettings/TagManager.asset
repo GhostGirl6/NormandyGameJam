@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Climb
+  - Water
+  - Animal
+  - Fly
+  - projectile
+  - FxTemporaire
+  - Trousse
+  - Fiole
+  - Eau
+  - Livre
+  - Inutile
   layers:
   - Default
   - TransparentFX
@@ -25,7 +36,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Animal
   - 
   - 
   - 
